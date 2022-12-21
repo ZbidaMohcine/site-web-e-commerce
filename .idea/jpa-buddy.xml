@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="mysql">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="8a052a29-44c0-400c-b89f-58fad92c143a" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/springcourse/springcor/entity" />
+  </component>
+</project>

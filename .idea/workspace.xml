@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2eacd41-032b-4bef-910b-779c45bab4be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/payload/ProdDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/controller/CategorieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/controller/CategorieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/dao/CategorieDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/dao/CategorieDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/entity/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/entity/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/repository/CategorieRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcourse/springcor/repository/CategorieRepo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JpaEntity" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaeeView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1oQJvnFkWkthALtEr9dqWFMRq2H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/study_project/JEE/backend",
+    "spring.configuration.checksum": "14335eff2826ad347cd3c7ea53745d4e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\spring\all\springcor - Copie\src\main\java\com\springcourse\springcor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springcourse.springcor.entity" />
+      <recent name="com.springcourse.springcor.dao" />
+      <recent name="com.springcourse.springcor.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringcorApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#39" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="39" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#42" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="42" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringcorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcourse.springcor.SpringcorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#42" />
+        <item itemvalue="HTTP Request.generated-requests#39" />
+        <item itemvalue="HTTP Request.generated-requests#1" />
+        <item itemvalue="HTTP Request.generated-requests#2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2eacd41-032b-4bef-910b-779c45bab4be" name="Default Changelist" comment="" />
+      <created>1613213113428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613213113428</updated>
+      <workItem from="1613213119249" duration="6183000" />
+      <workItem from="1613330176669" duration="2059000" />
+      <workItem from="1613497691573" duration="12455000" />
+      <workItem from="1613582411896" duration="32441000" />
+      <workItem from="1613921084931" duration="2311000" />
+      <workItem from="1614066048324" duration="39000" />
+      <workItem from="1615071916056" duration="1748000" />
+      <workItem from="1615099378109" duration="6500000" />
+      <workItem from="1664446621666" duration="1523000" />
+      <workItem from="1665657120138" duration="148000" />
+      <workItem from="1665941732554" duration="166000" />
+      <workItem from="1667682127960" duration="33000" />
+      <workItem from="1667688460432" duration="2357000" />
+      <workItem from="1667749719307" duration="2925000" />
+      <workItem from="1667761573736" duration="1304000" />
+      <workItem from="1668449305889" duration="2239000" />
+      <workItem from="1668451861546" duration="9463000" />
+      <workItem from="1668710986410" duration="15834000" />
+      <workItem from="1669493489063" duration="1198000" />
+      <workItem from="1669821633060" duration="1333000" />
+      <workItem from="1670409635482" duration="1495000" />
+      <workItem from="1670413138839" duration="607000" />
+      <workItem from="1670419604607" duration="11891000" />
+      <workItem from="1671462399832" duration="3142000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding upload and get ProdutPic">
+      <created>1668716403479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668716403479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding upload and get ProdutPic" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding upload and get ProdutPic" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
